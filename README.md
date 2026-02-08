@@ -17,4 +17,4 @@ Vous trouverez ici mes principaux travaux de recherche et d'analyse quantitative
 * 📄 **Contenu :** Voir le dossier `Memoire_Licence` pour le mémoire complet (PDF).
 
 ---
-*Contact : sacha.tilliere@gmail.com | [LinkedIn](https://www.linkedin.com/in/sacha-tilliere)*
+*Contact : sacha.tilliere@gmail.com | [LinkedIn](https://www.linkedin.com/in/sacha-tilliere-2a3294263/)*
