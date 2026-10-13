@@ -22,5 +22,6 @@ Sujet : "Les réponses budgétaires des communes aux catastrophes naturelles".
 Cadre : Mémoire de fin de Licence (Mention Assez Bien).
 Encadrement : N. Pistolesi.
 📄 Contenu : Voir le dossier Memoire_Licence pour le mémoire complet (PDF).
+
 ---
 *Contact : sacha.tilliere@gmail.com | [LinkedIn](https://www.linkedin.com/in/sacha-tilliere-2a3294263/)*
