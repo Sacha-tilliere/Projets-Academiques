@@ -30,4 +30,4 @@
 <br>
 
 ---
-**Contact :** sacha.tilliere@gmail.com | LinkedIn
+**Contact :** sacha.tilliere@gmail.com | LinkedIn (https://www.linkedin.com/in/sacha-tilliere-2a3294263/?isSelfProfile=true)
